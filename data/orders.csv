@@ -1,0 +1,16 @@
+operationId;clientId;grossAmount;createdAtUtc;zoneId
+P-101;1;1000.00;2026-11-10T10:00:00Z;Europe/Berlin
+P-102;1;300.00;2026-11-10T11:00:00Z;Europe/Berlin
+P-103;2;500.00;2026-11-11T08:00:00Z;Europe/Moscow
+P-104;2;800.00;2026-11-11T09:00:00Z;Europe/Moscow
+P-105;1;200.00;2026-11-11T10:00:00Z;Europe/Berlin
+P-106;1;-20.00;2026-11-11T10:00:00Z;Europe/Berlin
+P-101;1;1000.00;2026-11-10T10:00:00Z;Europe/Berlin
+P-109;3;0.00;2026-11-12T00:00:00Z;America/New_York
+P-110;3;1500.50;2026-11-12T23:59:59Z;Asia/Tokyo
+P-111;4;750.25;invalid-date;Europe/London
+P-112;4;not_a_number;2026-11-13T14:00:00Z;Europe/London
+P-113;5;420.00;2026-11-13T15:30:00Z;Invalid/Zone
+;5;100.00;2026-11-14T10:00:00Z;Europe/Moscow
+P-114;;250.00;2026-11-14T11:00:00Z;Europe/Moscow
+P-115;6;999999.99;2026-11-15T18:45:00Z;UTC
